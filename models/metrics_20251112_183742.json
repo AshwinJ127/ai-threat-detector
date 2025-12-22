@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.9989,
+    "precision": 0.9213,
+    "recall": 0.8858,
+    "f1": 0.8945,
+    "created": "2025-11-12 18:37:42",
+    "model_name": "lightgbm_model_20251112_182516.pkl",
+    "final_model_path": "models/lightgbm_model_final.pkl",
+    "features": 70,
+    "objective": "multiclass",
+    "num_classes": 15,
+    "notes": "High-recall optimized LightGBM model"
+}

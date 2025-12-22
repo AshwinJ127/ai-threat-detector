@@ -1,0 +1,1 @@
+Redirecting to /tailwindcss@4.1.18/lib/cli.js
